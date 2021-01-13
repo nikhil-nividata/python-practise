@@ -1,0 +1,5 @@
+{'supergeek': 5}
+{'geek': 10, 'geeky': True}
+{'supergeek': 5}
+{'GeeksforGeeks': 'Education', 'geekgod': 101.0, 3: 'gfg'}
+{'geek': 10, 'geeky': True}
